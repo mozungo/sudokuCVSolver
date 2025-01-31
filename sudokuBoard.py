@@ -25,15 +25,13 @@ class SudokuBoard:
         """
         self.board[x,y] = value
 
-
-
 def checkValid():
         """
         Check board Validity
         """
-        for x in range(9):
-             print(x)
+        for x in range(1, 10):
+        
              
-print(x.board)
+
 checkValid()
 
