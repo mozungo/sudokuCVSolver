@@ -29,9 +29,11 @@ def checkValid():
         """
         Check board Validity
         """
-        for x in range(1, 10):
         
-             
+        pass
 
-checkValid()
-
+def solveBoard():
+     """
+     Solves the Board
+     """
+     pass
